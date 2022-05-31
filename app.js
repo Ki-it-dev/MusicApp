@@ -1,4 +1,4 @@
-const $ = document.querySelector.bind(document);
+﻿const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
 const PLAYER_STORAGE_KEY = 'F8-PLAYER'
@@ -49,12 +49,7 @@ const app = {
             path: 'https://aredir.nixcdn.com/Believe_Audio19/MuonRoiMaSaoCon-SonTungMTP-7011803.mp3?st=w9AA-eyRI7yD_VYGfvVWeQ&e=1623141624',
             image: 'https://pbs.twimg.com/media/Ez5jRyVVgAQN6Kh.jpg',
         },
-        {
-            name: 'See You Again',
-            singer: 'Charlie Puth ft Wiz Khalifa',
-            path: 'https://aredir.nixcdn.com/NhacCuaTui894/SeeYouAgain-KurtSchneiderEppicAlexGoot-3888930.mp3?st=1q73myBS8FKr8Rx0snpMJw&e=1623144094',
-            image: 'https://nghiennhac.com/wp-content/uploads/2020/09/see-you-again-0.jpg',
-        },
+    
 
         {
             name: 'Symphony',
